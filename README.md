@@ -1,2 +1,5 @@
 # DVT-project-
-This is an end-to-end project of Boston Condo House Pricing analysis by using tableau software.
+#This is an end-to-end project of Boston Condo House Pricing analysis by using tableau software.
+Problem Statement:
+
+#Consider myself as a Lead Data Analyst at a Real Estate company in Boston that has provided you with the House Pricing dataset. You have been given a task to explore the data, create different plots and interpret useful insights/findings. Your end goal here will be to create a storyboard that you have to present to the Senior Management and the story has to have an end objective and should follow a logical flow to display that you are heading towards achieving the end objective. This will help the Senior Management in taking some decisive actions on the current House Recommendation System in place. This storyboard will be an open-ended story for you to explore various different features in the data and try to showcase different plots. Make sure to have minimum clutter in the plots, follow a consistent color scheme across all the plots, and use proper colors to highlight a specific insight. Moreover, your plots on all the dashboards should be interactive and responsive. There should be 1 dashboard that should cover the summary of the story as well as your recommendations.
